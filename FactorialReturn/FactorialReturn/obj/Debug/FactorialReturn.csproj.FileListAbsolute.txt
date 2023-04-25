@@ -1,0 +1,8 @@
+C:\Users\Maria\Desktop\Tarea\FactorialReturn\FactorialReturn\bin\Debug\FactorialReturn.exe.config
+C:\Users\Maria\Desktop\Tarea\FactorialReturn\FactorialReturn\bin\Debug\FactorialReturn.exe
+C:\Users\Maria\Desktop\Tarea\FactorialReturn\FactorialReturn\bin\Debug\FactorialReturn.pdb
+C:\Users\Maria\Desktop\Tarea\FactorialReturn\FactorialReturn\obj\Debug\FactorialReturn.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\Tarea\FactorialReturn\FactorialReturn\obj\Debug\FactorialReturn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maria\Desktop\Tarea\FactorialReturn\FactorialReturn\obj\Debug\FactorialReturn.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Tarea\FactorialReturn\FactorialReturn\obj\Debug\FactorialReturn.exe
+C:\Users\Maria\Desktop\Tarea\FactorialReturn\FactorialReturn\obj\Debug\FactorialReturn.pdb

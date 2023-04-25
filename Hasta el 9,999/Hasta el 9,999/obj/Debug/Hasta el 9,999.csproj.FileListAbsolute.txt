@@ -1,0 +1,8 @@
+C:\Users\Maria\Desktop\Tarea\Hasta el 9,999\Hasta el 9,999\bin\Debug\Hasta el 9,999.exe.config
+C:\Users\Maria\Desktop\Tarea\Hasta el 9,999\Hasta el 9,999\bin\Debug\Hasta el 9,999.exe
+C:\Users\Maria\Desktop\Tarea\Hasta el 9,999\Hasta el 9,999\bin\Debug\Hasta el 9,999.pdb
+C:\Users\Maria\Desktop\Tarea\Hasta el 9,999\Hasta el 9,999\obj\Debug\Hasta el 9,999.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\Tarea\Hasta el 9,999\Hasta el 9,999\obj\Debug\Hasta el 9,999.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maria\Desktop\Tarea\Hasta el 9,999\Hasta el 9,999\obj\Debug\Hasta el 9,999.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Tarea\Hasta el 9,999\Hasta el 9,999\obj\Debug\Hasta el 9,999.exe
+C:\Users\Maria\Desktop\Tarea\Hasta el 9,999\Hasta el 9,999\obj\Debug\Hasta el 9,999.pdb

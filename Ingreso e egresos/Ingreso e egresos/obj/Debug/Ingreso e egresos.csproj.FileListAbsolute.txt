@@ -1,0 +1,8 @@
+C:\Users\Maria\Desktop\Tarea\Ingreso e egresos\Ingreso e egresos\bin\Debug\Ingreso e egresos.exe.config
+C:\Users\Maria\Desktop\Tarea\Ingreso e egresos\Ingreso e egresos\bin\Debug\Ingreso e egresos.exe
+C:\Users\Maria\Desktop\Tarea\Ingreso e egresos\Ingreso e egresos\bin\Debug\Ingreso e egresos.pdb
+C:\Users\Maria\Desktop\Tarea\Ingreso e egresos\Ingreso e egresos\obj\Debug\Ingreso e egresos.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\Tarea\Ingreso e egresos\Ingreso e egresos\obj\Debug\Ingreso e egresos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maria\Desktop\Tarea\Ingreso e egresos\Ingreso e egresos\obj\Debug\Ingreso e egresos.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Tarea\Ingreso e egresos\Ingreso e egresos\obj\Debug\Ingreso e egresos.exe
+C:\Users\Maria\Desktop\Tarea\Ingreso e egresos\Ingreso e egresos\obj\Debug\Ingreso e egresos.pdb

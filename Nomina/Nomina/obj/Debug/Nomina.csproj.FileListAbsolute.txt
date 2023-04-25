@@ -1,0 +1,8 @@
+C:\Users\Maria\Desktop\Tarea\Nomina\Nomina\bin\Debug\Nomina.exe.config
+C:\Users\Maria\Desktop\Tarea\Nomina\Nomina\bin\Debug\Nomina.exe
+C:\Users\Maria\Desktop\Tarea\Nomina\Nomina\bin\Debug\Nomina.pdb
+C:\Users\Maria\Desktop\Tarea\Nomina\Nomina\obj\Debug\Nomina.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\Tarea\Nomina\Nomina\obj\Debug\Nomina.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maria\Desktop\Tarea\Nomina\Nomina\obj\Debug\Nomina.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Tarea\Nomina\Nomina\obj\Debug\Nomina.exe
+C:\Users\Maria\Desktop\Tarea\Nomina\Nomina\obj\Debug\Nomina.pdb

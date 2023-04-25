@@ -1,0 +1,8 @@
+C:\Users\Maria\Desktop\Tarea\1 al 500multiplos\1 al 500multiplos\obj\Debug\1 al 500multiplos.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\Tarea\1 al 500multiplos\1 al 500multiplos\obj\Debug\1 al 500multiplos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maria\Desktop\Tarea\1 al 500multiplos\1 al 500multiplos\obj\Debug\1 al 500multiplos.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Tarea\1 al 500multiplos\1 al 500multiplos\bin\Debug\1 al 500multiplos.exe.config
+C:\Users\Maria\Desktop\Tarea\1 al 500multiplos\1 al 500multiplos\bin\Debug\1 al 500multiplos.exe
+C:\Users\Maria\Desktop\Tarea\1 al 500multiplos\1 al 500multiplos\bin\Debug\1 al 500multiplos.pdb
+C:\Users\Maria\Desktop\Tarea\1 al 500multiplos\1 al 500multiplos\obj\Debug\1 al 500multiplos.exe
+C:\Users\Maria\Desktop\Tarea\1 al 500multiplos\1 al 500multiplos\obj\Debug\1 al 500multiplos.pdb

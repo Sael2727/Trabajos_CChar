@@ -1,0 +1,8 @@
+C:\Users\Maria\Desktop\Tarea\Recursividad\Recursividad\bin\Debug\Recursividad.exe.config
+C:\Users\Maria\Desktop\Tarea\Recursividad\Recursividad\bin\Debug\Recursividad.exe
+C:\Users\Maria\Desktop\Tarea\Recursividad\Recursividad\bin\Debug\Recursividad.pdb
+C:\Users\Maria\Desktop\Tarea\Recursividad\Recursividad\obj\Debug\Recursividad.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\Tarea\Recursividad\Recursividad\obj\Debug\Recursividad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maria\Desktop\Tarea\Recursividad\Recursividad\obj\Debug\Recursividad.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Tarea\Recursividad\Recursividad\obj\Debug\Recursividad.exe
+C:\Users\Maria\Desktop\Tarea\Recursividad\Recursividad\obj\Debug\Recursividad.pdb
